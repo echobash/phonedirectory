@@ -1,7 +1,39 @@
-Intro
-Phonedirectory is a bash sript which is used for:-
-1. adding a contact
-2. searching a contact
-3. deleting a contact
-4. viewing contact
+###Features
 
+- Add Contact
+- view Contact
+- Delete Contact
+- Search contact
+
+[========]
+
+# Steps:-
+     git clone https://github.com/echobash/phonedirectory
+     cd phonedirectory
+     bash  phonedirectory.sh
+# Start working on the project`
+
+
+# Screenshots
+**Add Contact
+**
+
+![](http://13.233.125.22/phonedirectory/addContact.png)
+
+**Search Contact**
+
+![](http://13.233.125.22/phonedirectory/searchContact.png)
+
+**Delete Contact**
+
+![](http://13.233.125.22/phonedirectory/delete.png)
+
+**View Contact**
+
+![](http://13.233.125.22/phonedirectory/viewContact.png)
+
+
+
+
+
+###End
