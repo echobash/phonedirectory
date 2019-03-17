@@ -1,5 +1,14 @@
 #!/bin/bash
-#www.github.com/echobash
+######################################################################################################
+# Title      :	phonedirectory  --A phone directory to save,delete,search contact from terminal
+# Author     : Ali Anwar <anwarali37@gmail.com>
+# Date       :	2019-03-17
+# Git        :	echobash
+# Tech stack :	Bash Script
+######################################################################################################
+
+
+
 while :
 do
 clear
