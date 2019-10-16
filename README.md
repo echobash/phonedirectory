@@ -1,9 +1,9 @@
 ###Features
 
-- Add Contact
-- view Contact
-- Delete Contact
-- Search contact
+- Add Contacts
+- view Contacts
+- Delete Contacts
+- Search contacts
 
 [========]
 
